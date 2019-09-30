@@ -1,0 +1,17 @@
+{
+  "name": "practice-gulp",
+  "version": "1.0.0",
+  "description": "A repo for understanding concepts of Gulp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
